@@ -99,7 +99,7 @@
     "modelCod": "J600G",
     "modelName": "Galaxy J6",
     "colorCod": "ZDBZTO",
-    "colorName": "Ouro",
+    "colorName": "Dourado",
     "valorRaw": "R$ 1199,00",
     "valorNew": "R$ 929,00",
     "marker": true
@@ -163,7 +163,7 @@
     "modelId": 7,
     "modelCod": "J730G",
     "colorCod": "ZSCZTO",
-    "colorName": "Prata",
+    "colorName": "Azul",
     "marker": false
   }
 ]
