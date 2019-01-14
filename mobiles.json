@@ -1,0 +1,169 @@
+[{
+    "modelId": 1,
+    "modelCod": "G570M",
+    "modelName": "Galaxy J5 Prime",
+    "colorCod": "EDGZTO",
+    "colorName": "Rosa",
+    "valorRaw": "R$ 799,00",
+    "valorNew": "R$ 635,00",
+    "marker": true
+  },
+  {
+    "modelId": 1,
+    "modelCod": "G570M",
+    "colorCod": "WDSZTO",
+    "colorName": "Dourado",
+    "marker": false
+  },
+  {
+    "modelId": 1,
+    "modelCod": "G570M",
+    "colorCod": "ZKSZTO",
+    "colorName": "Preto",
+    "marker": false
+  },
+  {
+    "modelId": 2,
+    "modelCod": "G611M",
+    "modelName": "Samsung J7 Prime 2",
+    "colorCod": "ZDCZTO",
+    "colorName": "Dourado",
+    "valorRaw": "R$ 999,00",
+    "valorNew": "R$ 830,00",
+    "marker": true
+  },
+  {
+    "modelId": 2,
+    "modelCod": "G611M",
+    "colorCod": "ZKCZTO",
+    "colorName": "Preto",
+    "marker": false
+  },
+  {
+    "modelId": 3,
+    "modelCod": "J400M",
+    "modelName": "Samsung Galaxy J4",
+    "colorCod": "ZDKZTO",
+    "colorName": "Dourado",
+    "valorRaw": "R$ 755,00",
+    "valorNew": "R$ 450,00",
+    "marker": true
+  },
+  {
+    "modelId": 3,
+    "modelCod": "J400M",
+    "colorCod": "ZKKZTO",
+    "colorName": "Preto",
+    "marker": false
+  },
+  {
+    "modelId": 3,
+    "modelCod": "J400M",
+    "colorCod": "ZPKZTO",
+    "colorName": "Violeta",
+    "marker": false
+  },
+  {
+    "modelId": 3,
+    "modelCod": "J400M",
+    "colorCod": "ZVKZTO",
+    "colorName": "Prata",
+    "marker": false
+  },
+  {
+    "modelId": 4,
+    "modelCod": "J530G",
+    "modelName": "Samsung Galaxy J5 Pro",
+    "colorCod": "ZDRZTO",
+    "colorName": "Dourado",
+    "valorRaw": "R$ 1399,00",
+    "valorNew": "R$ 939,00",
+    "marker": true
+  },
+  {
+    "modelId": 4,
+    "modelCod": "J530G",
+    "colorCod": "ZKRZTO",
+    "colorName": "Preto",
+    "marker": false
+  },
+  {
+    "modelId": 4,
+    "modelCod": "J530G",
+    "colorCod": "ZSQZTO",
+    "colorName": "Prata",
+    "marker": false
+  },
+  {
+    "modelId": 5,
+    "modelCod": "J600G",
+    "modelName": "Galaxy J6",
+    "colorCod": "ZDBZTO",
+    "colorName": "Ouro",
+    "valorRaw": "R$ 1199,00",
+    "valorNew": "R$ 929,00",
+    "marker": true
+  },
+  {
+    "modelId": 5,
+    "modelCod": "J600G",
+    "colorCod": "ZKBZTO",
+    "colorName": "Preto",
+    "marker": false
+  },
+  {
+    "modelId": 5,
+    "modelCod": "J600G",
+    "colorCod": "ZPBZTO",
+    "colorName": "Violeta",
+    "marker": false
+  },
+  {
+    "modelId": 5,
+    "modelCod": "J600G",
+    "colorCod": "ZVBZTO",
+    "colorName": "Prata",
+    "marker": false
+  },
+  {
+    "modelId": 6,
+    "modelCod": "J720M",
+    "modelName": "Galaxy J7 Duo",
+    "colorCod": "ZDJZTO",
+    "colorName": "Dourado",
+    "valorRaw": "R$ 1831,20",
+    "valorNew": "R$ 1399,00",
+    "marker": true
+  },
+  {
+    "modelId": 6,
+    "modelCod": "J720M",
+    "colorCod": "ZKJZTO",
+    "colorName": "Preto",
+    "marker": false
+  },
+  {
+    "modelId": 7,
+    "modelCod": "J730G",
+    "modelName": "Galaxy J7 Pro",
+    "colorCod": "ZDCZTO",
+    "colorName": "Dourado",
+    "valorRaw": "R$ 1799,00",
+    "valorNew": "R$ 1109,50",
+    "marker": true
+  },
+  {
+    "modelId": 7,
+    "modelCod": "J30G",
+    "colorCod": "ZKCZTO",
+    "colorName": "Preto",
+    "marker": false
+  },
+  {
+    "modelId": 7,
+    "modelCod": "J30G",
+    "colorCod": "ZSCZTO",
+    "colorName": "Prata",
+    "marker": false
+  }
+]
